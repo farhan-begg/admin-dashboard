@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Admin Page to track users and products also be able to see data
-
+- Due to using a free version of deployment the api takes 3-5 mins to be successfully fetched
 ### Built With
 - Material Ui
 - React 

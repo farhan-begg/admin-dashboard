@@ -9,7 +9,7 @@ Admin Page to track users and products also be able to see data
 - Render 
 
 ## Link
-[Live Link](https://admin-tracker.onrender.com/dashboard)
+[Live Link](https://admin-tracker.onrender.com/products)
 
 
 ![Screenshot](screenshot2.png)
